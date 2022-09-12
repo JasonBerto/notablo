@@ -1,4 +1,4 @@
-# [Notable](https://notable.app) <a href="https://chat.notable.app" title="Notable's real-time chat"><img src="https://notable.app/static/images/icons/discord.svg" height="24" /></a> <a href="https://twitter.com/TheNotableApp" title="Notable's Twitter account"><img src="https://notable.app/static/images/icons/twitter.svg" height="24" /></a> <a href="https://reddit.com/r/notable" title="Notable's subreddit"><img src="https://notable.app/static/images/icons/reddit.svg" height="24" /></a>
+# [Notablo](https://notable.app) <a href="https://chat.notable.app" title="Notable's real-time chat"><img src="https://notable.app/static/images/icons/discord.svg" height="24" /></a> <a href="https://twitter.com/TheNotableApp" title="Notable's Twitter account"><img src="https://notable.app/static/images/icons/twitter.svg" height="24" /></a> <a href="https://reddit.com/r/notable" title="Notable's subreddit"><img src="https://notable.app/static/images/icons/reddit.svg" height="24" /></a>
 
 <p align="center">
   <a href="https://img.notable.app/screenshot-main.png">
